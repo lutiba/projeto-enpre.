@@ -1,0 +1,165 @@
+*/ frota*/
+<body>
+    <ul>
+      <li><a href="pag inicial.html">Home</a></li>
+          <li><a href="frota.html">frota</a></li>
+      <li><a href="empresa.htm">Empresa</a>
+      <li><a href="form_trabalhe.htm">Trabalhe Conosco</a></li>
+      </li>
+    </ul>
+  
+    <style>
+     body {background-image: url(IMAGENS/carro\ fundo.jpg ) ;
+    background-repeat: no-repeat;
+    background-size:contain;
+  
+  }  
+   
+
+     body {background-color: black;
+     }
+     ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #383737;
+    border:1px solid rgb(63, 63, 63);
+overflow:hidden ;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid rgb(66, 66, 66);
+float: left;
+}
+  li a {
+    display: block;
+    color: rgba(230, 157, 0, 0.753);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size:1.2em;
+ 
+}
+li a:hover {
+    background-color:   #0f0f0f;
+    color: rgb(68, 66, 66);
+    font-size:1.2em;
+}
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+h3{
+  color: rgb(230, 157, 0, 0.753);
+}
+p{
+  color: rgb(230, 157, 0, 0.753);
+}
+p{
+    color: rgb(230, 157, 0, 0.753);
+}
+    </style>
+
+
+              
+                
+            </form>
+        
+            <p> <img src="IMAGENS/BMW_X6_M50i_SUV_2022.jpg"  width="360px" height="200px" title="bmw" ALIGN=LEFT > BMW X6 M50i SUV 2022 </p>
+           <br> 
+           <br>
+           <br 
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <p><img src="IMAGENS/jaguar.jpeg"width="360px" height="200px" title="jaguar"  ALIGN=left > Jaguar F-Pace 2.0D Prestige 4WD 2020</p>
+           <br> 
+           <br>
+           <br 
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+            <p>    <img src="IMAGENS/porsche.jpeg" width="360px" height="200px" title="porsche"  ALIGN=LEFT > Porsche Cayenne 2022</p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p> <img src="IMAGENS/mercedes.jpeg" width="360px" height="200px" title="mercedes"  ALIGN=LEFT >MERCEDES-BENZ CLA 250 </p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p> <img src="IMAGENS/audi.png" width="360px" height="200px" title="audi"  ALIGN=LEFT >Audi A8 2022 </p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p> <img src="IMAGENS/land rover.png " width="360px" height="200px" title="Land rover "  ALIGN=LEFT >land rover defender 2022</p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>   <img src="IMAGENS/maxresdefault-removebg-preview.png" width="360px" height="200px" title="mustang"  ALIGN=LEFT > Ford Mustang Shelby GT500 2022</p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>      <img src="IMAGENS/VW-Nivus-2022_1-1.jpg" width="360px" height="200px" title=" nyvus"  ALIGN=LEFT > VW Nivus 2022 </p>
+            <br> 
+            <br>
+            <br 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>    <img src="IMAGENS/Dodge_Challenger_SRT_Super_Stock_2022.jpg" width="360px" height="200px" title="Dodge"  ALIGN=LEFT >Dodge Challenger SRT Super Stock 2022</p>
+            
+            
+            </body>
