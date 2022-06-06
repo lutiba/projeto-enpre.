@@ -1,0 +1,82 @@
+*/ EMPRESA*/
+<body>
+    <ul>
+      <li><a href="pag inicial.html">Home</a></li>
+          <li><a href="frota.html">frota</a></li>
+
+      <li><a href="empresa.htm">Empresa</a>
+      <li><a href="form_trabalhe.htm">Trabalhe Conosco</a></li>
+      </li>
+    </ul>
+  
+    <style>
+     
+  body {background-image: url(IMAGENS/carro\ fundo.jpg ) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #383737;
+    border:1px solid rgb(63, 63, 63);
+overflow:hidden ;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid rgb(66, 66, 66);
+float: left;
+}
+  li a {
+    display: block;
+    color: rgba(230, 157, 0, 0.753);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size:1.2em;
+ 
+}
+li a:hover {
+    background-color:   #0f0f0f;
+    color: rgb(68, 66, 66);
+    font-size:1.2em;
+}
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+h3{
+  color: rgb(230, 157, 0, 0.753);
+}
+p{
+  color: rgb(230, 157, 0, 0.753);
+}
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+  h3{color: rgb(230, 157, 0, 0.753);}
+  p{color: rgb(230, 157, 0, 0.753);}
+  </style>
+                                 
+  <h1> ALPHA MOTRS</h1> <p>criada por excelentes profissionais no intuito de suprir sua mobilidade, entregando um serviço com excelência. Somos uma Locadora de Veículos   com uma diversidade de carros e serviços que possam se encaixar na necessidade de nossos clientes. Temos uma frota de carros blindados, pois é uma delicada situação quando falamos de segurança pública, então oferecemos uma segurança individual para que nossos clientes tenham uma experiência única para se locomoverem  de um lugar para outro.
+    Oferecemos também, diferentes planos como, exclusive (locação de limusine, vans entre outros). Também temos o plano executivo (que inclui a contratação de um motorista), são motoristas que possuem certificado  no curso  SEST SENAT,  que estarão disponíveis a qualquer hora do dia.
+    Nossa central atendimento está localizada na cidade de São Paulo capital com a Matriz no bairro da Liberdade, Temos filiais instaladas em aeroportos para facilitar quem chega de viagem e prefere a comodidade de um carro exclusivo .Hoje nossa frota de veículos que oferecemos para os clientes encontra-se carros com ar-condicionado direção elétrica ou hidráulica, central multimídia, câmbio automático, banco de couro. Fazemos a Higienização dos veículos e manutenção preventiva cuidar dos nosso clientes é prioridade. Nós da ALPHA MOTRS pensamos sempre em seu conforto e segurança, com isso pensamos porque pagar caro por um veículo popular se você pode alugar um veículo luxuoso e blindado por um baixo custo e pelo tempo que quiser e onde quiser. Uma linha completa de veículos de alta qualidade e de serviços relacionados que excedam as expectativas do cliente. Cuidamos de todos os detalhes para que o nosso cliente tenha uma experiência única e exclusiva.
+   Consulte os nossos serviços pelo APP ou pelo SITE, conferindo a disponibilidade de nossos veículos. Dependendo da opção escolhida com os melhores preços do mercado com atendimentos 24h.
+    </p> 
+   
+                   <h1>MISSÃO</h1>
+                   <p>Oferecer nossos serviços com excelência, proporcionando conforto, segurança e mobilidade para todos nossos clientes de forma acessível e pratica. Reduzir a burocracia e trazer o máximo de conforto e segurança com carros exclusivos de luxo, por um preço acessível, em qualquer lugar terá um carro próximo a você e pronto para atender as necessidades e expectativas dos nossos clientes a qualquer hora. </p>
+              
+                      <h1>VISÃO</h1>
+                   <p> Ser referência no aluguel de carros de luxo, reconhecida como a melhor opção para os clientes, sempre visando se expandir cada vez mais e buscando atender todas as necessidades dos nossos clientes. Criar valor para nossos acionistas e demais públicos.
+                </p>
+                 <h1>VALORES</h1>
+              
+                  <p> Honestidade
+              Segurança
+              Conforto
+              Inovação
+              Diversidades
+              Responsabilidade social
+              Sustentabilidade e respeito aos clientes e aos nossos colaboradores.</p>
+              <h1 style="text-align:center" >Pra onde você for, ALPHA MOTRS estará com você.</h1>
+         
