@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>AlphaMotors</title>
+  </head>
+  <link rel="stylesheet" href="estilo.css">
+  <body>
+    <p style = "font-family:courier,arial,helvetica;">
+
+    <ul>
+      <li><a href="pag inicial.html">Home</a></li>
+          <li><a href="frota.html">frota</a></li>
+      <li><a href="empresa.htm">Empresa</a>
+      <li><a href="form_trabalhe.htm">Trabalhe Conosco</a></li>
+      </li>
+    </ul>
+  
+    <style>
+     
+  body {background-image: url(IMAGENS/carro\ fundo.jpg ) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+  }
+  
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #383737;
+    border:1px solid rgb(63, 63, 63);
+overflow:hidden ;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid rgb(66, 66, 66);
+float: left;
+}
+  li a {
+    display: block;
+    color: rgba(230, 157, 0, 0.753);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size:1.2em;
+ 
+}
+li a:hover {
+    background-color:   #0f0f0f;
+    color: rgb(68, 66, 66);
+    font-size:1.2em;
+}
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+h3{
+  color: rgb(230, 157, 0, 0.753);
+}
+p{
+  color: rgb(230, 157, 0, 0.753);
+}
+    </style>
+ <h1   style="text-align:center" >AlphaMotors</h1>
+    <h1   style="text-align:center" >ALTO PADRÃO <br> CONFORTO E <br> SEGURANÇA. </h1>
+ 
+    <h2 style="text-align:center" >Transporte executivo customizado</h2>
+   
+
+<p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+    <a href="http://validator.w3.org/check?uri=referer">
+    <img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88" ></a>
+  </p>
+<h3 align="middle">feito por estudantes</h3>
+
+
+
+  
+
+  </body>
+</html>
