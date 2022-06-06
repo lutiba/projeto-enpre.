@@ -1,0 +1,92 @@
+*/ trabalhe conosco*/
+<body>
+    <ul>
+      <li><a href="pag inicial.html">Home</a></li>
+          <li><a href="frota.html">frota</a></li>
+
+      <li><a href="empresa.htm">Empresa</a>
+      <li><a href="form_trabalhe.htm">Trabalhe Conosco</a></li>
+      </li>
+    </ul>
+  
+    <style>
+     
+  body {background-image: url(IMAGENS/carro\ fundo.jpg ) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #383737;
+    border:1px solid rgb(63, 63, 63);
+overflow:hidden ;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid rgb(66, 66, 66);
+float: left;
+}
+  li a {
+    display: block;
+    color: rgba(230, 157, 0, 0.753);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size:1.2em;
+ 
+}
+li a:hover {
+    background-color:   #0f0f0f;
+    color: rgb(68, 66, 66);
+    font-size:1.2em;
+}
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+h3{
+  color: rgb(230, 157, 0, 0.753);
+}
+p{
+  color: rgb(230, 157, 0, 0.753);
+}
+
+h1 {color: rgb(230, 157, 0, 0.753);}
+h2{color: rgb(230, 157, 0, 0.753);}
+p{
+    color: rgb(230, 157, 0, 0.753);
+}
+label{
+    color: rgb(230, 157, 0, 0.753);
+}
+    </style>
+    <h1>Quer trabalhar Conosco? Mande seu curriculo atravez do email para nos avaliarmos!</h1>
+    
+    
+
+    <form action="teste.php" method="post" name="meu_formulario">
+                   
+        <label>Informe seu e-mail de contato:</label> <input type="email" name="email">
+        <br>
+        <label for="telefone">Telefone</label> 
+        <input type="tel" id="telefone" class="input-padrao" required placeholder="(xx) xxxxx-xxxx">
+
+    </form>
+    <button type="button" onclick="Enviar()">Enviar</button>
+
+    <script>
+        function Enviar(){
+            alert('enviado com sucesso')
+        }
+    </script>
+    <br>
+    <br>
+    <br>
+  
+    <h3  style="text-align:center">formas de contato</h3>
+    <p  style="text-align:center" >whatsapp 24h:(11)99873-4218</p>
+    <p  style="text-align:center">email 24h:AlphaMotors@gmail.com</p>
+    
+    
+</body>
